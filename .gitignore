@@ -32,3 +32,14 @@ Desktop.ini
 # ========== 旧版本备份 ==========
 _unpacked/
 新建文件夹/
+
+# ========== 已归档的旧版/辅助脚本（本地保留，不上传）==========
+deploy.bat
+deploy_all.bat
+deploy_7zip_2409_fixed.bat
+test_wps_install.bat
+windows_update_control.bat
+hide_taskview.bat
+windows10_taskbar_settings.bat
+progress_preview.bat
+常用软件 -2619.bat
